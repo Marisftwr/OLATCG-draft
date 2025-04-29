@@ -1,12 +1,11 @@
 import { createTheme } from '@mui/material/styles';
-import { purple, teal } from '@mui/material/colors';
+import { purple } from '@mui/material/colors';
 
 const mainTheme = createTheme({
     palette: {
         primary: {
-            main: '#C5D9A0',
+            main: '#b5c793',
             light: '#D3E8AC',
-            contrastText: 'white'
         },
         secondary: {
             main: purple[100],
