@@ -1,39 +1,18 @@
-# olatcg-frontend 🧬
+# OLATCG - draft
 
-OLATCG is an easy-to-use bioinformatics interface for students from all over the world. 🌎 
+This is React.js project  
 
-## Descrition 📃
+## Description 
 
-Focused on high school and earlier graduation, the platform makes it possible to perform different types of Bioinformatics analysis through pre-established pipelines. Besides it, OLATCG has a **_learn_** section that attempts not only to demonstrate how to use the available **_tools_**, but understand what's behind it's implementation. All available tool uses accurate computatinal models widely disseminated in the scientific academy.
+This is a repository that contains some of the changes of the original OLATCG frontend project. We downloaded the older version from Luiz Miguel's repository "olatcg-frontend" and started to working out to put our view into the layout, based on our projection from the UI website Framer.
 
-## What can I do with OLATCG? 🤔
+## Prototype built in Framer
 
-Actually, besides the tutorials and explanations present in learn section, we have some features that the actual tools allows us to do. With OLATCG's tools you can
+```shell
+https://resourceful-staple-604751.framer.app/
+```
 
-- Align two sequences
-  - Globally
-  - Locally
-
-- Perform phylogenetic study of multiple sequences getting informations (based on serach against OLATCG's database) like
-  - Taxonomy
-  - Identity
-  - Alignments
-  - Country Origin
-  - Correponding sequence in GenBank
-  
-- Generate a simple phylogenetic tree to your homology study
-
-- Use BLASTN (in progress)
-
-## Actual Deploy ☁
-
-Actually, we are passing through a repository update process. So, our deploy still based on our legacy initial project (https://github.com/LuizMVB/olatcg). Ropefully, we'll going to change it as sooner as possible.
-
-But, this is a good way to know more about olatcg's world and purpose.
-
-> https://olatcg.herokuapp.com/
-
-## Running Locally 🏃🏽‍♀️
+## Running Locally 
 
 - Clone the repository
 
